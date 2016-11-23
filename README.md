@@ -1,1 +1,1 @@
-# lightEdX
+# lightEdX scripts
